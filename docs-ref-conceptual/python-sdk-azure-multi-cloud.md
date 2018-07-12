@@ -41,10 +41,10 @@ client = ResourceManagementClient(
 ``` 
   
 Available cloud definition are
-  - AZURE_PUBLIC_CLOUD
-  - AZURE_CHINA_CLOUD
-  - AZURE_US_GOV_CLOUD
-  - AZURE_GERMAN_CLOUD
+- AZURE_PUBLIC_CLOUD
+- AZURE_CHINA_CLOUD
+- AZURE_US_GOV_CLOUD
+- AZURE_GERMAN_CLOUD
 
 ## Using your own cloud definition (e.g. Azure Stack)
 ARM has a metadata endpoint to help you:

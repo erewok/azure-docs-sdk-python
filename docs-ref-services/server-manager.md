@@ -61,5 +61,5 @@ gateway_async = servermanager_client.gateway.create(
 gateway = gateway_async.result() # Blocking wait
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/servermanager/management)

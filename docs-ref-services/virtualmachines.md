@@ -66,7 +66,7 @@ def create_vm()
         'RESOURCE_GROUP_NAME', 'VM_NAME', VM_PARAMETERS)
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/virtualmachines/management)
 
 ## Samples

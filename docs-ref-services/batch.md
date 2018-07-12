@@ -59,7 +59,7 @@ Use the Azure Batch management libraries to create and delete batch accounts, re
 ```bash
 pip install azure-mgmt-batch
 ```
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Client APIs](/python/api/overview/azure/batch/client)
 
 ### Example
@@ -100,5 +100,5 @@ creating = batch_client.account.create('MyBatchAccount', LOCATION, batch_account
 creating.wait()
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/batch/management)

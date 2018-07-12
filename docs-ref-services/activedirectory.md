@@ -29,7 +29,7 @@ pip install azure-graphrbac
 
 ### Example
 > [!NOTE]
-> You need to change the resource parameter to https://graph.windows.net while creating the credentials instance
+> You need to change the resource parameter to <https://graph.windows.net> while creating the credentials instance
 
 ```python
 from azure.graphrbac import GraphRbacManagementClient
@@ -76,7 +76,7 @@ for user in graphrbac_client.users.list(filter="displayName eq 'Test Buddy'"):
 graphrbac_client.users.delete(user.object_id)
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Client APIs](/python/api/overview/azure/activedirectory/client)
 
 Explore more [sample Python code for Azure AD](https://azure.microsoft.com/en-us/resources/samples/?term=active+directory&platform=python) you can use in your apps.

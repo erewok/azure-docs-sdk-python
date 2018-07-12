@@ -38,7 +38,7 @@ resource_client = ResourceManagementClient(credentials, subscription_id)
 resource_client.resource_groups.create_or_update(GROUP_NAME, {'location': LOCATION})
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/azure.mgmt.resource)
 
 ## Samples

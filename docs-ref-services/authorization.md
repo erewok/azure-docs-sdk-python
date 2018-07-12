@@ -66,6 +66,6 @@ permissions = self.authorization_client.permissions.list_for_resource_group(
 # permissions is a iterable of Permissions instances
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/authorization/management)
 

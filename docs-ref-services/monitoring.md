@@ -174,5 +174,5 @@ my_alert = client.alert_rules.create_or_update(
     }
 )
 ```
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/monitoring/management)

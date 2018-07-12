@@ -62,7 +62,7 @@ source_control_async_operation = web_client.web_apps.create_or_update_source_con
     )
 )
 ```
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/webapps/management)
 
 ## Samples 

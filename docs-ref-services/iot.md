@@ -80,5 +80,5 @@ async_iot_hub = iothub_client.iot_hub_resource.create_or_update(
 iothub = async_iot_hub.result() # Blocking wait for creation
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/iot/management)

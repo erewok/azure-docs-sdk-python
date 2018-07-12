@@ -79,7 +79,7 @@ secret_bundle = client.get_secret("https://VAULT_ID.vault.azure.net/", "SECRET_I
 print(secret_bundle.value)
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Client APIs](/python/api/overview/azure/keyvault/client)
 
 ### Management API
@@ -123,10 +123,10 @@ vault = kv_client.vaults.create_or_update(
     }
 )
 ```
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Client APIs](/python/api/overview/azure/keyvault/client)
-
-> [!div class="nextstepaction"]
+> 
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/keyvault/management)
 
 ## Samples

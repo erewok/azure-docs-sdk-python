@@ -78,5 +78,5 @@ scheduler_client.job_collections.create_or_update(
 # scheduler_client is a JobCollectionDefinition instance
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/scheduler/management)

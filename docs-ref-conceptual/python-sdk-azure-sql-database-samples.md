@@ -10,13 +10,14 @@ ms.topic: article
 ms.technology: azure
 ms.devlang: python
 ms.service: multiple
-ms.assetid: 
+ms.assetid:
 ---
 
 
 # Azure management libraries for Python samples for SQL Database
 
 The following table links to Python source you can use to create and connect to a SQL database. 
+
 
 | ||
 |---|---|

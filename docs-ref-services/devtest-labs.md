@@ -61,5 +61,5 @@ async_lab = self.client.lab.create_or_update_resource(
 lab = async_lab.result() # Blocking wait
 ``` 
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/devtestlabs/management)

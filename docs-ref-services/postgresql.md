@@ -13,7 +13,7 @@ ms.devlang: python
 ms.service: postgresql
 ---
 
-#Azure PostgreSQL libraries for Python
+# Azure PostgreSQL libraries for Python
 
 ## Overview
 Use the ODBC driver and pyodbc to connect to the database and execute SQL statements directly.
@@ -72,6 +72,6 @@ db_creation_poller = client.databases.create_or_update(
 db = db_creation_poller.result()
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/postgresql/management)
 

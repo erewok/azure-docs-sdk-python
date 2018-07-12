@@ -113,7 +113,7 @@ jobResult = adlaJobClient.job.create(
 )
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/datalakeanalytics/management)
 
 ## Samples

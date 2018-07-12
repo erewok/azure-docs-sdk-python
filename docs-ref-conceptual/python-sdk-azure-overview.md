@@ -10,7 +10,7 @@ ms.topic: article
 ms.technology: azure
 ms.devlang: python
 ms.service: multiple
-ms.assetid: 
+ms.assetid:
 ---
 
 # Azure libraries for Python

@@ -50,7 +50,7 @@ while row:
     row = cursor.fetchone()
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [pyodbc sample](https://github.com/mkleehammer/pyodbc/wiki/Getting-started)
 
 ## Connecting to ORMs
@@ -124,6 +124,6 @@ firewall_rule = sql_client.firewall_rules.create_or_update(
     "167.220.0.235"  # End ip range
 )
 ```
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/sql/management)
 

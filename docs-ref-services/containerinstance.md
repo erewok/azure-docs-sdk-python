@@ -128,7 +128,7 @@ This example deletes several container groups from a resource group, as well as 
 
 * Explore more [sample Python code][samples-python] you can use in your apps.
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the management APIs](/python/api/overview/azure/containerinstance/management)
 
 <!-- LINKS - External -->

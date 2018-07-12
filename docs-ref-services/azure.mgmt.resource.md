@@ -17,6 +17,7 @@ ms.service: resources
 ## Overview 
 Manage Azure resources in resource groups.
 
+
 | Package  |  Description |
 |---|---|
 |[azure.mgmt.resource.features][1]|Azure Feature Exposure Control (AFEC) provides a mechanism for the resource providers to control feature exposure to users.|

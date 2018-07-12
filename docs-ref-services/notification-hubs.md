@@ -67,5 +67,5 @@ output = notificationhubs_client.namespaces.check_availability(
 print(output.is_availiable) # Yes, it's 'availiable', it's a typo in the REST API
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/notificationhubs/management)

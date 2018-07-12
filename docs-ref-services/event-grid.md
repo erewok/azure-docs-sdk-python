@@ -66,7 +66,7 @@ def publish_event(self):
         )
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Client APIs](/python/api/overview/azure/eventgrid/client)
 
 ## Management SDK
@@ -140,7 +140,7 @@ Clean up resources
 az group delete --name gridResourceGroup
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/eventgrid/management)
 
 ## Learn more

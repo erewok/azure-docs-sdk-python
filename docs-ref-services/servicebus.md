@@ -201,5 +201,5 @@ sent_msg = Message(b'receive message',
 )
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/servicebus/management)

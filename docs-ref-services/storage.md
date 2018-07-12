@@ -62,6 +62,7 @@ print(blob_service.make_blob_url('mycontainername', 'myblobname'))
 
 ## Samples
 
+
 | | |
 |--|--|
 | [Get started with Azure Blob Storage in Python](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-python-how-to-use-blob-storage) | Create, read, update, restrict access, and delete files and objects in Azure Storage. |

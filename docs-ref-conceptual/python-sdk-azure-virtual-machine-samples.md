@@ -10,12 +10,13 @@ ms.topic: article
 ms.technology: azure
 ms.devlang: python
 ms.service: multiple
-ms.assetid: 
+ms.assetid:
 ---
 
 # Azure management libraries for Python samples for virtual machines
 
 The following table links to Python source you can use to create and configure Azure virtual machines.
+
 
 | || 
 |---|---|

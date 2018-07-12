@@ -70,7 +70,7 @@ async_subnet_creation = network_client.subnets.create_or_update(
 subnet_info = async_subnet_creation.result()
 ```
 
-> [!div class="nextstepaction"]
+> [!div  class="nextstepaction"]
 > [Explore the Management APIs](/python/api/overview/azure/network/management)
 
 ### Samples
